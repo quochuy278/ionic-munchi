@@ -1,0 +1,7 @@
+{
+  "name": "ionic-munchi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
