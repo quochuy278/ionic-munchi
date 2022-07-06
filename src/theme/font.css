@@ -1,0 +1,15 @@
+/* Fonts */
+
+@font-face {
+  font-family: "F37Judge";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../public/assets/fonts/F37Ginger-Regular.ttf");
+}
+
+@font-face {
+  font-family: "F37Judge";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../../public/assets/fonts/F37Ginger-BoldItalic.ttf");
+}
