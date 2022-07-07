@@ -1,0 +1,89 @@
+.buttonsContainer {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.titleCtn {
+  display: flex;
+  height: 32px;
+  width: 295px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.titleContainer {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleContent1 {
+  height: 32px !important;
+  margin-right: 5px;
+  font-family: "F37Ginger";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  padding: 0;
+  color: var(--ion-color-dark);
+}
+
+.titleContent2 {
+  height: 32px !important;
+  margin-right: 5px;
+  font-family: "F37Ginger";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  color: #ff3537;
+  padding: 0;
+}
+.signInBtn {
+  margin-top: 7px !important;
+  margin-bottom: 7px !important;
+  height: 55px !important;
+  width: 350px !important;
+  border-radius: 0px;
+  border: solid 1px var(--ion-color-dark-tint);
+}
+
+.btnText {
+  font-family: "F37Ginger";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  flex: 1;
+  text-transform: none;
+  text-align: left;
+  margin-left: 70px;
+}
+
+.iconBtn {
+  padding: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.divider {
+  display: flex;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+}
+.dividerCtn {
+  margin: 25px 15px 0 15px;
+  font-family: "F37 Ginger";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: var(--ion-color-light);
+}
